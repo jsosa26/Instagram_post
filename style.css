@@ -15,10 +15,6 @@ body{
     justify-content: space-between;
 }
 
-.img_1_and_text{
-    
-}
-
 .img_1{
     height: 20px;
     width: 20px;
@@ -29,3 +25,49 @@ body{
     width: 20px;
 }
 
+/* Modificacion de la seccion 2 */
+.img_3{
+    height: 400px;
+    width: 552px;
+}
+
+/* Modificacion de la seccion 3 */
+.contenido_section_3{
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+}
+
+.img_section_3{
+    justify-content: left;
+}
+
+.img_4{
+    height: 30px;
+    width: 30px;
+}
+
+.img_5{
+    height: 30px;
+    width: 30px;
+}
+
+.img_6{
+    height: 30px;
+    width: 30px;
+}
+
+.img_2_section_3{
+    justify-content: right;
+}
+
+.img_7{
+    height: 30px;
+    width: 30px;
+}
+
+/* modificacion de la seccion 4 */
+.section_4{
+    padding: 15px;
+
+}
