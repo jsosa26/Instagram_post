@@ -1,11 +1,12 @@
 /* modificacion del fondo */
 body{
     background-color: black;
+    padding: 120px 265px 120px 266px;
 }
 
 .hoja_blanca{
     background-color: white;
-    margin: 170px 200px 170px 200px;;
+    margin: 120px 170px 120px 170px;
 }
 
 /* MOdificacion de la seccion 1 */
@@ -15,9 +16,18 @@ body{
     justify-content: space-between;
 }
 
+.img_1_and_text{
+    display: flex;
+    justify-content: space-between;
+} 
+
+.parrafo_1{
+    margin: -5px 0px 0px 5px;
+}
+
 .img_1{
-    height: 20px;
-    width: 20px;
+    height: 30px;
+    width: 30px;
 }
 
 .img_2_1{
